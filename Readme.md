@@ -1,4 +1,5 @@
 Step 1: Get a virus total account
+
 Step 2: Get the API key in Virus Total
 
 Step 3: Setup Docker
